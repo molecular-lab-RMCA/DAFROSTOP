@@ -2,6 +2,13 @@
 
 Research on the risk of *Dacus frontalis* becoming established in Belgium, with methods for detection and control.
 
+## Partners and collaborators
+
+| Institution | Country |
+| --- | --- |
+| Royal Museum for Central Africa (RMCA) | Belgium |
+| Flanders Research Institute for Agriculture, Fisheries and Food (ILVO) | Belgium |
+
 ## Public repositories
 
 Public repositories will be listed here as they become available.
