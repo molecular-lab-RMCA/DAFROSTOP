@@ -9,11 +9,12 @@ Research on the risk of *Dacus frontalis* becoming established in Belgium, with 
 | Royal Museum for Central Africa (RMCA) | Belgium |
 | Flanders Research Institute for Agriculture, Fisheries and Food (ILVO) | Belgium |
 
-## Public repositories
+## Repositories
 
 | Repository | Technical approach | Contents |
 | --- | --- | --- |
-| [Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP)](https://github.com/molecular-lab-RMCA/Esselens_et_al_2026_African_Dacus_DAFROSTOP) | Nuclear and mitochondrial phylogenomics | Phylogenomic alignments, trees and metadata |
+| Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP) · Restricted access | Nuclear and mitochondrial phylogenomics | Phylogenomic alignments, trees and metadata |
+| Virgilio et al. (2026): Dacus frontalis genomic assignment (DAFROSTOP) · Restricted access | Population genomics and complementary mitochondrial analysis | Origin tracing workflow |
 
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/DAFROSTOP.md)
 
