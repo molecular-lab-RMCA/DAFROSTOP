@@ -11,7 +11,9 @@ Research on the risk of *Dacus frontalis* becoming established in Belgium, with 
 
 ## Public repositories
 
-Public repositories will be listed here as they become available.
+| Repository | Contents |
+| --- | --- |
+| [Esselens et al. (2026): African Dacus](https://github.com/molecular-lab-RMCA/Esselens-et-al.-2026_African-Dacus) | Phylogenomic alignments, trees and metadata |
 
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/DAFROSTOP.md)
 
