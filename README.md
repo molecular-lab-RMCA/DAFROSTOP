@@ -13,7 +13,7 @@ Research on the risk of *Dacus frontalis* becoming established in Belgium, with 
 
 | Repository | Technical approach | Contents |
 | --- | --- | --- |
-| [Esselens et al. (2026): African Dacus](https://github.com/molecular-lab-RMCA/Esselens-et-al.-2026_African-Dacus) | Nuclear and mitochondrial phylogenomics | Phylogenomic alignments, trees and metadata |
+| [Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP)](https://github.com/molecular-lab-RMCA/Esselens_et_al_2026_African_Dacus_DAFROSTOP) | Nuclear and mitochondrial phylogenomics | Phylogenomic alignments, trees and metadata |
 
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/DAFROSTOP.md)
 
